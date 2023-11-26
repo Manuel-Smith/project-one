@@ -188,3 +188,4 @@ cleasr
 clear
 touch bingo.sh
 chmod +x bingo.sh
+git add .
