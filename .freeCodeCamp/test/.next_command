@@ -31,3 +31,4 @@ clear
 touch questionnaire.sh
 echo hello questionnaire.sh
 sh questionnaire.sh
+bash questionnaire.sh
