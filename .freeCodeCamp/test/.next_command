@@ -134,3 +134,4 @@ clear
 [[ 10 -le 5 ]]
 [[ 10 -ne 5 ]]
 bad_command
+ls --color=auto
