@@ -109,3 +109,6 @@ clear
 help
 help [[ expression ]]
 help test
+clear
+./questionnaire.sh 5
+./countdown.sh 5
