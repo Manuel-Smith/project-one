@@ -177,3 +177,6 @@ help
 help while
 clear
 ./countdown.sh 5
+./countdown.sh 20
+git status
+git add .
