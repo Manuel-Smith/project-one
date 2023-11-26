@@ -92,3 +92,4 @@ which bash
 help
 man echo
 man if
+help if
