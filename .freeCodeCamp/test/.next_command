@@ -68,3 +68,17 @@ clear
 ls --color=auto
 git status
 git add .
+git commit -m "Created a questionnaire script"
+git push -M main
+git remote add origin https://github.com/Manuel-Smith/project-one.git
+git branch -M main
+git push -u origin Main
+git push -u origin main
+git status
+clear
+git status
+clear
+touch coundown.sh
+ls --color=auto
+rm coundown.sh
+touch countdown.sh
