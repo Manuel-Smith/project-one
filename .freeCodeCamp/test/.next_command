@@ -85,3 +85,4 @@ touch countdown.sh
 clear
 chmod +w countdown.sh
 chmod +x countdown.sh
+which bash
