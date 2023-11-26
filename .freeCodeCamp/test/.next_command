@@ -59,3 +59,12 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 clear
 ./questionnaire.sh
+ls --color=auto
+clear
+git status
+git init
+ls --color=auto -l
+clear
+ls --color=auto
+git status
+git add .
