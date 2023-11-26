@@ -86,3 +86,4 @@ clear
 chmod +w countdown.sh
 chmod +x countdown.sh
 which bash
+./countdown.sh
