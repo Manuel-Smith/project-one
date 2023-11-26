@@ -82,3 +82,6 @@ touch coundown.sh
 ls --color=auto
 rm coundown.sh
 touch countdown.sh
+clear
+chmod +w countdown.sh
+chmod +x countdown.sh
