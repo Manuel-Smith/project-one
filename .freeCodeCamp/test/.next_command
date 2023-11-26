@@ -108,3 +108,4 @@ help
 clear
 help
 help [[ expression ]]
+help test
