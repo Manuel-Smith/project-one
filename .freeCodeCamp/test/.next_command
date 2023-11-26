@@ -141,3 +141,4 @@ help test
 help test
 clear
 [[ -a countdown.sh ]]
+[[ -a bad_file.txt ]]
