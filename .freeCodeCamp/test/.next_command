@@ -161,3 +161,11 @@ clear
 help
 ls --color=auto /
 ls --color=auto /bin
+clear
+ls --color=auto /bin
+ls --color=auto /bin
+help ls /bin
+ls --color=auto /bin
+clear
+help sleep
+man sleep
