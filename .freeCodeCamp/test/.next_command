@@ -180,3 +180,10 @@ clear
 ./countdown.sh 20
 git status
 git add .
+git commit -m "Added a countdown generator"
+git push
+clear
+git status
+cleasr
+clear
+touch bingo.sh
