@@ -100,3 +100,11 @@ help if
 ./countdown.sh 4
 ./countdown.sh 5
 help
+help if
+help [[if]]
+clesar
+clear
+help
+clear
+help
+help [[ expression ]]
